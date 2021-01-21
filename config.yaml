@@ -1,0 +1,406 @@
+user: 
+    account:
+        username: 18616533246
+        password: whosyourdaddy
+
+streamers:
+#    INnoVation天下第一人吕布人族天梯第一视角星际2:
+#       tid: 171
+#       url:
+#          - https://www.twitch.tv/innovation_s2
+# #         - https://www.huya.com/igxy520
+#       cover_path: picture/INnoVation.png
+# #      cover_path: E:/bilibili/bilibili/picture/INnoVation.png
+#       tags:
+#          - 星际争霸2
+#          - 虚空之遗
+#          - 第一视角
+#          - INnoVation
+#          - 人族
+   # Alphaxsc2比赛解说频道星际2:
+   #    url:
+   #       - http://play.afreecatv.com/alphaxsc2/null
+   #    cover_path: picture/AlphaX.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - AlphaX
+   #       - 比赛
+   #       - 解说录像
+   # Rogue脑虫虫族天梯第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - http://play.afreecatv.com/bau6660
+   #    cover_path: picture/Rogue.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - Rogue
+   #       - 虫族
+   ByuN人族天梯第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/sc2byun
+      cover_path: picture/ByuN.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - ByuN
+         - 人族
+   # soO直播录像输本虫族天梯第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - https://play.afreecatv.com/djdbstn
+   #    cover_path: picture/soO.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - soO
+   #       - 虫族
+   sOs直播录像狗哥神族天梯第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/jinairsos1
+      cover_path: picture/sOs.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - sOs
+         - 神族
+   # Stats直播录像拔本神族天梯第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - https://play.afreecatv.com/kimdaeyeob11
+   #    cover_path: picture/Stats.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - Stats
+   #       - 神族
+   Dark直播录像暗本虫族天梯第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/qkrfuddn0
+      cover_path: picture/Dark.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - Dark
+         - 虫族
+   Maru直播录像人族天梯第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/maru072
+      cover_path: picture/Maru.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - Maru
+         - 人族
+   # TY直播录像全教主全太阳人族天梯第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - https://play.afreecatv.com/sunstar1994
+   #    cover_path: picture/TY.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - TY
+   #       - 人族
+   # Zest直播录像神族天梯第一视角星际2:
+   #    url:
+   #       - https://www.twitch.tv/sc2_zest
+   #    cover_path: picture/Zest.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - Zest
+   #       - 神族
+   PartinG直播录像跳跳胖丁神族天梯第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/partingthebigboy
+      cover_path: picture/PartinG.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - PartinG
+         - 神族
+   SHOWTIME直播录像神族第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/sc2showtime
+      cover_path: picture/SHOWTIME.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - SHOWTIM
+         - 神族
+   # Serral直播录像虫族天梯第一视角星际2:
+   #    url:
+   #       - https://www.twitch.tv/serral
+   #    cover_path: picture/Serral.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - Serral
+   #       - 虫族
+   Solar直播录像虫族天梯第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/sc2solar
+      cover_path: picture/Solar.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - Solar
+         - 虫族
+   # UThermal直播录像常威打人族天梯第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - https://www.twitch.tv/liquidthermy
+   #    cover_path: picture/UThermal.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - UThermal
+   #       - 人族
+   # XY直播录像鸟哥游戏大厅天梯第一视角星际2:
+   #    url:
+   #       - https://www.huya.com/igxy520
+   #    cover_path: picture/XY.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - XY
+   #       - 人族
+   TIME直播录像开酒人族第一视角星际2:
+      url:
+         - https://www.douyu.com/1858651
+      cover_path: picture/TIME.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - TIME
+         - 人族
+   # HeroMaRinE直播录像河马披萨人皇人族第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - https://www.twitch.tv/heromarine
+   #    cover_path: picture/HeroMarine.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - HeroMarine
+   #       - 人族
+   # Harstem直播录像神族第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - https://www.twitch.tv/harstem
+   #    cover_path: picture/Harstem.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - Harstem
+   #       - 神族
+   # printf直播录像地堡王神族第一视角星际2:
+   #    url:
+   #       - https://www.twitch.tv/quasarprintf
+   #    cover_path:
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - printf
+   #       - 神族
+   # SuperNova直播录像人族第一视角星际2:
+   #    url:
+   #       - https://www.twitch.tv/root_supernova
+   #    cover_path: picture/SuperNova.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - SuperNova
+   #       - 人族
+   Trap直播录像扛旗人神族第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/trap321
+      cover_path: picture/Trap.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - Trap
+         - 神族
+   Cure直播录像人族第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/dpgcure
+      cover_path: picture/Cure.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - Cure
+         - 人族
+   # Stephano直播录像虫族第一视角星际2:
+   #    url:
+   #       - https://www.twitch.tv/gostephano
+   #    cover_path: picture/Stephano.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - Stephano
+   #       - 虫族
+   RagnaroK直播录像虫族第一视角星际2:
+      url:
+         - https://www.twitch.tv/SC2_Ragnarok
+      cover_path: picture/RagnaroK.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - RagnaroK
+         - 虫族
+   Clem直播录像人族第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/clem__sc2
+      cover_path: picture/Clem.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - clem
+         - 人族
+   Reynor直播录像虫族第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/rb_reynor
+      cover_path: picture/reynor.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - Reynor
+         - 虫族
+   MaxPax直播录像神族第一视角星际2:
+      tid: 171
+      url:
+         - http://www.twitch.tv/maxpaxsc2
+      cover_path:
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - Maxpax
+         - 神族
+   Dream梦本直播录像人族第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/dream_sc2
+      cover_path: picture/dream.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - Dream
+         - 人族
+   Cyan探机鸡哥直播录像神族第一视角星际2:
+      tid: 171
+      url:
+         - https://www.douyu.com/5718
+      cover_path: picture/cyan.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - Cyan
+         - 神族
+   # Scarlett噶姐直播录像虫族星际1星际2:
+   #    tid: 171
+   #    url:
+   #       - https://www.twitch.tv/scarlettm
+   #    cover_path: picture/scarlett.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - Scarlett
+   #       - 虫族
+   # Cloudy茂神直播录像神族第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - https://www.huya.com/cloudy
+   #    cover_path: picture/cloudy.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - cloudy
+   #       - 神族
+   # Zoun直播录像神族第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - https://www.twitch.tv/zoun123
+   #    cover_path: picture/zoun.png
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - zoun
+   #       - 神族
+   Special肥宅直播录像人族第一视角星际2:
+      tid: 171
+      url:
+         - https://www.twitch.tv/special_
+      cover_path: picture/special.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - special
+         - 人族
+   # Neeb直播录像神族第一视角星际2:
+   #    tid: 171
+   #    url:
+   #       - https://www.twitch.tv/N33bl3t
+   #    cover_path: 
+   #    tags:
+   #       - 星际争霸2
+   #       - 虚空之遗
+   #       - 第一视角
+   #       - Neeb
+   #       - 神族
+   虚空王XiGua直播录像虫族第一视角星际2:
+      tid: 171
+      url:
+         - https://www.huya.com/xukongwang
+      cover_path: picture/xigua.png
+      tags:
+         - 星际争霸2
+         - 虚空之遗
+         - 第一视角
+         - 西瓜
+         - 虫族

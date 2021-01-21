@@ -6,7 +6,6 @@
 .idea/vcs.xml
 *.pyc
 .idea/encodings.xml
-*.png
 *.jpg
 *.flv
 *.mp4
@@ -23,3 +22,6 @@ test.py
 /upload.py
 /work.py
 *.zip
+config.yaml
+*.pid
+*.yaml

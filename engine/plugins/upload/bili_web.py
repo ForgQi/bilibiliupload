@@ -327,7 +327,7 @@ class BiliBili:
         return {"title": splitext(filename)[0], "filename": splitext(basename(upos_uri))[0], "desc": ""}
 
     @staticmethod
-    async def _upload(params, file, chunk_size, afunc, tasks=3):
+    async def _upload(params, file, chunk_size, afunc, tasks=2):
         params['chunk'] = -1
 
         async def upload_chunk():
